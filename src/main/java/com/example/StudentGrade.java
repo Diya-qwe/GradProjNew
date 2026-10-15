@@ -10,6 +10,7 @@ public class StudentGrade {
                     "Marks must be between 0 and 100");
         }
 
+
         if (marks >= 90) {
             return 'A';
         } else if (marks >= 80) {

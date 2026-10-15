@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class StudentGradeTest {
 
+
     StudentGrade student = new StudentGrade();
 
     @Test
